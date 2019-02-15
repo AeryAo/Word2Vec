@@ -1,6 +1,6 @@
 #  Word2Vec  
-Self complemented word embedding methods using CBOW，skip-Gram，word2doc matrix , word2word matrix ,基于CBOW、skip-gram、词-文档矩阵、词-词矩阵四种方法的词向量生成
-# 简介：   
+本项目是基于CBOW、skip-gram、词-文档矩阵、词-词矩阵四种方法的词向量生成
+# 概述：   
 Harris 在1954 年提出的分布假说（distributional hypothesis）为这一设想提供了理论基础：上下文相似的词，其语义也相似。  
 Firth 在1957 年对分布假说进行了进一步阐述和明确：词的语义由其上下文决定（a word is characterized by thecompany it keeps）。  
 基于分布假说得到的表示均可称为分布表示（distributional representation），它们的核心思想也都由两部分组成：  
